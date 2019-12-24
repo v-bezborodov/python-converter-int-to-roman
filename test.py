@@ -22,6 +22,5 @@ while number > 0:
 		while number >= key:
 			number -= key
 			output += lookup[key]
-			continue
 
 print(output)
